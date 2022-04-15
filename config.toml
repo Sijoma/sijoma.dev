@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Sjoma's TTDM"
+title = "Sijoma's TTDM"
 themesDir = "themes"
 theme = "hugo-winston-theme"
 
