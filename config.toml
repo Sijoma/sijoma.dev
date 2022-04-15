@@ -1,0 +1,28 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Sjoma's TTDM"
+themesDir = "themes"
+theme = "hugo-winston-theme"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+paginate = 3
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[params]
+  google_analytics_id = ""
+  twitter_handle = "@sijoma"
+
+  showAuthorOnHomepage = true
+  showAuthorOnPosts = true
+  showPostsOnHomepage = true
+
+  addFrame = true
+  addDot = true
+
+  highlightColor = '#50b7e0'
