@@ -16,7 +16,7 @@ We start a *handful* of processes, we start *some* workers and we do that for an
 
 Its hard to have that under the same conditions.
 
-## The solution
+## The Solution
 
 An instance of the custom resource: 
 ```yaml
@@ -34,7 +34,7 @@ spec:
 
 Now we can apply this to our Kubernetes and run the same configuration in a more controlled way.
 
-## Behind the scences
+## Behind the Scenes
 
 The custom resource definition (CRD).
 ```yaml
