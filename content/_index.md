@@ -1,6 +1,8 @@
 ---
-title: Kubernetes is complex and simple
-description: The hallway smelt of boiled cabbage and old rag mats.
+title: Welcome
+description: This blog is in its early stages. Let's see how it goes 😁
 ---
 
-And one two three
+This blog is in its early stages. Let's see how it goes 😁
+
+Enjoy the posts ⤵️
