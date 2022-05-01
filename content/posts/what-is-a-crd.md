@@ -36,6 +36,8 @@ Now we can apply this to our Kubernetes and run the same configuration in a more
 
 ## Behind the Scenes
 
+You can checkout the implementation of the Operator on Github: https://github.com/Sijoma/camunda-benchmark-operator.
+
 The custom resource definition (CRD).
 ```yaml
 apiVersion: apiextensions.k8s.io/v1
