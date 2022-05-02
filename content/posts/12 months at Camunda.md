@@ -10,7 +10,7 @@ One year ago I joined Camunda as an Site Reliability Engineer (SRE). Here are my
 #### 2. People are key
 #### 3. Minttu is tasteful
 #### 4. Slack days are crucial
-#### 5. Go is my instrument
+#### 5. Go is a breeze
 #### 6. Croatia has beautiful islands
 #### 7. Sometimes less is more
 #### 8. Chaos engineering is detrimental 
