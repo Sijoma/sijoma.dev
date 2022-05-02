@@ -13,7 +13,7 @@ One year ago I joined Camunda as an Site Reliability Engineer (SRE). Here are my
 #### 5. Go is a breeze
 #### 6. Croatia has beautiful islands
 #### 7. Sometimes less is more
-#### 8. Chaos engineering is detrimental 
+#### 8. Rome was not built in a day 
 #### 9. Remote saves 5+ hours each week
 #### 10. Team work makes the dream work
 #### 11. Camunda 8 is the future
