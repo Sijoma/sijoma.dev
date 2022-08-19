@@ -26,3 +26,5 @@ paginate = 3
   addDot = true
 
   highlightColor = '#50b7e0'
+
+custom_css = ["css/custom.css"]
