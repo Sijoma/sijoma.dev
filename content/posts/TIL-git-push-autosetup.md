@@ -1,7 +1,7 @@
 ---
 title: "TIL: Git push.autoSetupRemote"
 date: 2022-08-20
-description: 'Never run into "fatal: The current branch your-favorite-branch has no upstream branch." again'
+description: 'Never run into "fatal: The current branch your-favorite-branch has no upstream branch." again.'
 ---
 
 You can prevent running into the following error:
